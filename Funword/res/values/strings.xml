@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="hello">Hello Chen,Huo and Zhang</string>
+  <string name="app_name">Funword</string>
+  <string name="str_button1">按我</string>
+</resources>
